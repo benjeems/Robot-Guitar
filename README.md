@@ -6,3 +6,4 @@ This repo holds the circuitry, Arduino sketches and Python code from my Robot Gu
 
 For the full back story and build log, check out my [website](https://dataviz.com.au/2018/05/16/robot-guitar-bringing-unseen-data-sources-into-the-real-world/).
  
+![alt text](https://github.com/benjeems/Robot-Guitar/blob/master/images/8_8001.jpg "Robot guitar")
