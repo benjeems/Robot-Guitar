@@ -1,5 +1,5 @@
 # Robot Guitar
-
+[![License: BSD 3-Clause License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 On the intersection of Art and Science, bringing unseen data sources into the real world.
 
 This repo holds the circuitry, Arduino sketches and Python code from my Robot Guitar project.  
