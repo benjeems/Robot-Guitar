@@ -1,2 +1,0 @@
-This Arduino listens to commands from the Rasberry Pi, to which it is connected by serial (see curcuit sketch). 
-This Arduino sketch controls the position and state of the pick servos as well as the LEDs.  
